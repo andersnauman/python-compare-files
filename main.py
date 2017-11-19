@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 """ Compare files in two folder with their sha1 checksum """
 import sys
 from hashlib import sha1
